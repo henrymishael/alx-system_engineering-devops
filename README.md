@@ -1,1 +1,2 @@
-My first Readme
+#!/bin/bash
+My first readme
